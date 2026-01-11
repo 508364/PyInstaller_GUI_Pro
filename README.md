@@ -145,7 +145,7 @@ python pyinstaller_gui.py
 ## 常见问题
 
 ### Q: 为什么程序启动缓慢？
-A: 第一次运行时需要解压Python嵌入式包，这是正常现象。后续运行会加快。
+A: 运行时需要解压Python嵌入式包，这是正常现象。
 
 ### Q: 打包后的程序无法运行？
 A: 请检查：
@@ -177,7 +177,7 @@ A: 可以尝试：
 
 ## 许可证
 
-MIT License
+Apache License 2.0
 
 ## 贡献
 
@@ -188,7 +188,7 @@ MIT License
 如有问题或建议，请通过以下方式联系：
 
 - 提交GitHub Issue
-- 发送邮件到：your-email@example.com
+- 发送邮件到：github508364@qq.com
 
 ---
 
